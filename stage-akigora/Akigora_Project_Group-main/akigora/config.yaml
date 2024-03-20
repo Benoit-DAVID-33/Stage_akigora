@@ -1,0 +1,25 @@
+cookie:
+  expiry_days: 0
+  key: random_signature_key
+  name: random_cookie_name
+credentials:
+  usernames:
+    admin:
+      email: admin@akigora.com
+      name: Thierry M.
+      password: $2b$12$t7EbUYjnAbXNp/O/.ZYjneWyc8tQGVf35ZjdAsze4WENwBDlEnw/K
+    commercial:
+      email: commercial@gmail.com
+      name: Benoit D.
+      password: $2b$12$7tstMpOv81WdCxIVStYecOhN9vZIEBIxrS4I4XsUkLynzYISwRmsO
+    marketing:
+      email: marketing@gmail.com
+      name: Rémi C.
+      password: $2b$12$EjCKmvo8yRt1IFnsYsmd..CgtuVM35nDR1EItVJZ.aLg27p/heE4S
+    rh:
+      email: rh@akigora.com
+      name: Ludovic L.
+      password: $2b$12$lbhQhKv8htspkoCrpHEdkeVb31QEhexeHoBV5hsG/cLyf68XyIj36
+preauthorized:
+  emails:
+  - admin@gmail.com
